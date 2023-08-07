@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Raghul Selvakumar](mailto:raghul.selvakumar@owasp.org)
+* [Sanker Kothandaraman](mailto:sanker.kothandaraman@owasp.org)
